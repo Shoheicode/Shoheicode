@@ -4,7 +4,7 @@ I am Jason Irie, a current College Student (specializing in Software Development
 
 I enjoy working on my own personal projects and participating in Hackathons and learning about new Technologies. Recently, I learned about Flutter and Firebase and plan on implementing that technology in future projects like C++ related projects with Firebase and Flutter Websites. 
 
-![linkedin](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin>&logoColor=blue)
 
 (https://www.linkedin.com/in/jason-irie-2bb2b0243/)
 
