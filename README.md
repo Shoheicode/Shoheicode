@@ -12,7 +12,7 @@ C++ Projects:
 - [Bank Management Project]()
 
 Flutter Project:
-- [Google Developer Student Club Solution Challenge]()
+- [Google Developer Student Club Solution Challenge](https://github.com/El-Camino-Google-Developer-Student-Club/El-Camino-2023-Solution-Challenge.git)
 - [Personal Website]()
 
 Unity Game Development:
