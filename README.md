@@ -8,8 +8,8 @@ Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 
 C++ Projects:
-- [Ice Man Project]()
-- [Bank Management Project]()
+- [Ice Man Project](https://github.com/Shoheicode/CS30-ICEMAN)
+- [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 - [Map Project](https://github.com/Shoheicode/CodeProjects/blob/main/C++%20Projects/MapProject/Readme.md)
 
 Flutter Project:
