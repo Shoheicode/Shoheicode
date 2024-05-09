@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am Jason Irie, a current College Student (specializing in Software Development) pursuing my Bachelors in Computer Science.
 
@@ -6,24 +6,27 @@ I enjoy working on my own personal projects and participating in Hackathons and 
 
 I am currently apart of the Google Developer Student Club at my school currently and partaking in creating intricate projects. To learn more, please look below!
 
-Best Project Examples:
+#### Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 
-C++ Projects:
+#### C++ Projects:
 - [Ice Man Project](https://github.com/Shoheicode/CS30-ICEMAN)
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 - [Map Project](https://github.com/Shoheicode/CodeProjects/blob/main/C++%20Projects/MapProject/Readme.md)
 
-Flutter Project:
+#### Flutter Project:
 - [Google Developer Student Club Solution Challenge](https://github.com/El-Camino-Google-Developer-Student-Club/El-Camino-2023-Solution-Challenge.git)
 - [Personal Website](https://github.com/Shoheicode/Personal-Website)
 
-Unity Game Development:
+#### Unity Game Development:
 - [Simple Platforming Game](https://github.com/Shoheicode/PlatformingGame)
 
-Data Structures:
+##### Data Structures:
 - [Binary Tree](https://github.com/Shoheicode/CodeProjects/tree/main/C%2B%2B%20Projects/MapProject)
 - [Double Linked List](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20A%20Project%203)
+
+#### Contact
+
 
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin>&logoColor=blue)](https://www.linkedin.com/in/jason-irie-2bb2b0243/)
 
