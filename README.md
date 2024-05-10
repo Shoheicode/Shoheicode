@@ -26,7 +26,7 @@ I am currently apart of the Google Developer Student Club at my school currently
 - [Double Linked List](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20A%20Project%203)
 
 #### Algorithims
-- [Depth Search Algorithim]()
+- [Depth Search Algorithim (MAZE)]()
 
 #### Contact
 
