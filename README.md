@@ -6,7 +6,7 @@ I enjoy working on my own personal projects and participating in Hackathons and 
 
 I am currently apart of the Google Developer Student Club at my school currently and partaking in creating intricate projects. To learn more, please look below!
 
-### Best Project Examples:
+## Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 
 #### C++ Projects:
@@ -31,7 +31,7 @@ I am currently apart of the Google Developer Student Club at my school currently
 #### Algorithims
 - [Depth Search Algorithim (MAZE)](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20AProject4)
 
-#### 🔗 Links
+## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://portfoliowebsite-36391.web.app/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/jason-irie-2bb2b0243/))
 
