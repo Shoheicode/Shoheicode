@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋, I am Jason Irie </h1>
 
-I am Jason Irie, a current College Student (specializing in Software Development) pursuing my Bachelors in Computer Science.
+I am a current College Student (specializing in Software Development) pursuing my Bachelors in Mathematics of Computation.
 
 I enjoy working on my own personal projects and participating in Hackathons and learning about new Technologies. Recently, I learned about Flutter and Firebase and plan on implementing that technology in future projects like C++ related projects with Firebase and Flutter Websites. 
 
