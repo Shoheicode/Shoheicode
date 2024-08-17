@@ -6,7 +6,7 @@ I enjoy working on my own personal projects and participating in Hackathons and 
 
 I am currently apart of the Google Developer Student Club at my school currently and partaking in creating intricate projects. To learn more, please look below!
 
-#### Best Project Examples:
+### Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 
 #### C++ Projects:
