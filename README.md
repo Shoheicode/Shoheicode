@@ -1,4 +1,4 @@
-<h1 text-align="center"> Hi there 👋 </h1>
+<h1 align="center"> Hi there 👋 </h1>
 
 I am Jason Irie, a current College Student (specializing in Software Development) pursuing my Bachelors in Computer Science.
 
