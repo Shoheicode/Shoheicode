@@ -6,8 +6,6 @@ I enjoy working on my own personal projects and participating in Hackathons and 
 
 I am currently apart of the Google Developer Student Club at my school currently and partaking in creating intricate projects. To learn more, please look below!
 
-[Website](https://portfoliowebsite-36391.web.app/)
-
 #### Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 
@@ -33,9 +31,9 @@ I am currently apart of the Google Developer Student Club at my school currently
 #### Algorithims
 - [Depth Search Algorithim (MAZE)](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20AProject4)
 
-#### Contact
-
-[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin>&logoColor=blue)](https://www.linkedin.com/in/jason-irie-2bb2b0243/)
+#### 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://portfoliowebsite-36391.web.app/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/jason-irie-2bb2b0243/))
 
 <!--
 **Shoheicode/Shoheicode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
