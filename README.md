@@ -41,6 +41,7 @@ I am currently apart of the Google Developer Student Club at my school currently
 ##### Data Structures:
 - [Binary Tree](https://github.com/Shoheicode/CodeProjects/tree/main/C%2B%2B%20Projects/MapProject)
 - [Double Linked List](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20A%20Project%203)
+- [CS 20A Projects](https://github.com/Shoheicode/CS20A-Class-Projects)
 
 #### Algorithims
 - [Depth Search Algorithim (MAZE)](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20AProject4)
