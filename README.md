@@ -8,6 +8,8 @@ I am currently apart of the Google Developer Student Club at my school currently
 
 ## Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
+- [AStar Flashcards](https://github.com/Shoheicode/Project-4-AI-Flashcards)
+- [AStar Rate my Professor](https://github.com/Shoheicode/Project-5--AI-Rate-My-Professor)
 
 #### C++ Projects:
 - [Ice Man Project](https://github.com/Shoheicode/CS30-ICEMAN)
