@@ -13,6 +13,7 @@ I am currently apart of the Google Developer Student Club at my school currently
 - [Ice Man Project](https://github.com/Shoheicode/CS30-ICEMAN)
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
 - [Map Project](https://github.com/Shoheicode/CodeProjects/blob/main/C++%20Projects/MapProject/Readme.md)
+- [CS 20A Projects](https://github.com/Shoheicode/CS20A-Class-Projects)
 
 #### Flutter Project:
 - [Google Developer Student Club Solution Challenge](https://github.com/El-Camino-Google-Developer-Student-Club/El-Camino-2023-Solution-Challenge.git)
