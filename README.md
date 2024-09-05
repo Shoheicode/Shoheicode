@@ -33,6 +33,9 @@ I am currently apart of the Google Developer Student Club at my school currently
 - [AStar Customer Support AI](https://github.com/Shoheicode/Project-3-AI-Customer-Support)
 - [AStar Fitness App](https://github.com/Shoheicode/ReactNativefitnessapp)
 
+#### React Native
+- [AStar Fitness App](https://github.com/Shoheicode/ReactNativefitnessapp)
+
 ##### Data Structures:
 - [Binary Tree](https://github.com/Shoheicode/CodeProjects/tree/main/C%2B%2B%20Projects/MapProject)
 - [Double Linked List](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20A%20Project%203)
