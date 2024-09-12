@@ -53,6 +53,7 @@ I am currently apart of the Google Developer Student Club at my school currently
 - [Greedy Algorithims](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment3)
 - [Searches (Binary, Selection Sort, Divide and Conquer)](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment4)
 - [Dynamic Programming Pt. 1](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment5)
+- [Dynamic Programming Pt. 2](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment6)
 
 ## 🔗 Links
 <a href = "https://portfoliowebsite-36391.web.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt = "linkedIn"> </a>
