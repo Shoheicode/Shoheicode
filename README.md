@@ -39,10 +39,14 @@ I am currently apart of the Google Developer Student Club at my school currently
 #### React Native
 - [AStar Fitness App](https://github.com/Shoheicode/ReactNativefitnessapp)
 
+#### Python
+- [Coursera Code Projects](https://github.com/Shoheicode/CourseraProjects)
+
 ##### Data Structures:
 - [Binary Search Tree](https://github.com/Shoheicode/CodeProjects/tree/main/C%2B%2B%20Projects/MapProject)
 - [Double Linked List](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20A%20Project%203)
 - [Binary Search Tree Pt.2](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20AProject5)
+- [Data Structures Problems](https://github.com/Shoheicode/CourseraProjects/tree/main/Data_Structures)
 
 #### Algorithims
 - [Depth Search Algorithim (MAZE)](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20AProject4)
