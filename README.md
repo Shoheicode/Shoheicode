@@ -51,6 +51,7 @@ I am currently apart of the Google Developer Student Club at my school currently
 #### Algorithims
 - [Depth Search Algorithim (MAZE)](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20AProject4)
 - [Greedy Algorithims](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment3)
+- [Searches (Binary, Selection Sort, Divide and Conquer)](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment4)
 
 ## 🔗 Links
 <a href = "https://portfoliowebsite-36391.web.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt = "linkedIn"> </a>
