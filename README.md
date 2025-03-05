@@ -21,6 +21,7 @@ I am formerly apart of the Google Developer Student Club at my school and partoo
 #### Flutter Project:
 - [Google Developer Student Club Solution Challenge](https://github.com/El-Camino-Google-Developer-Student-Club/El-Camino-2023-Solution-Challenge.git)
 - [Personal Website](https://github.com/Shoheicode/Personal-Website)
+- [Budget Management Website](https://github.com/Shoheicode/BudgetApp)
 
 #### Unity Game Development:
 - [Simple Platforming Game](https://github.com/Shoheicode/PlatformingGame)
