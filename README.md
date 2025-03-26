@@ -4,7 +4,7 @@ I am a current College Student at UCLA (specializing in Software Development) pu
 
 I enjoy working on my own personal projects and participating in Hackathons and learning about new Technologies. Recently, I learned about Flutter and Firebase and plan on implementing that technology in future projects like C++ related projects with Firebase and Flutter Websites. I have much experience using React as well along with OpenAI API's and other machine learning models. 
 
-I am formerly apart of the Google Developer Student Club at my school and partook in creating intricate projects. Along with that, I am currently doing research at UCLA with simulation technology and apart of the BruinSpace Club at UCLA. To learn more, please look below!
+I am formerly apart of the Google Developer Student Club at my school and partook in creating intricate projects. Along with that, I am currently doing research at UCLA with simulation technology and apart of the BruinSpace Club at UCLA. Along with that, I wrote Python Scrappers for research papers and wrote it to automatically update a website with all the papers. To learn more, please look below!
 
 
 ## Best Project Examples:
