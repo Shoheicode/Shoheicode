@@ -46,7 +46,7 @@ I am formerly apart of the Google Developer Student Club at my school and partoo
 #### Python
 - [Coursera Code Projects](https://github.com/Shoheicode/CourseraProjects)
 
-##### Data Structures:
+#### Data Structures:
 - [Binary Search Tree](https://github.com/Shoheicode/CodeProjects/tree/main/C%2B%2B%20Projects/MapProject)
 - [Double Linked List](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20A%20Project%203)
 - [Binary Search Tree Pt.2](https://github.com/Shoheicode/CS20A-Class-Projects/tree/main/CS20AProject5)
@@ -58,6 +58,8 @@ I am formerly apart of the Google Developer Student Club at my school and partoo
 - [Searches (Binary, Selection Sort, Divide and Conquer)](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment4)
 - [Dynamic Programming Pt. 1](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment5)
 - [Dynamic Programming Pt. 2](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment6)
+
+####
 
 ## 🔗 Links
 <a href = "https://portfoliowebsite-36391.web.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt = "linkedIn"> </a>
