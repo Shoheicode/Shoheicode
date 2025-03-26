@@ -59,7 +59,8 @@ I am formerly apart of the Google Developer Student Club at my school and partoo
 - [Dynamic Programming Pt. 1](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment5)
 - [Dynamic Programming Pt. 2](https://github.com/Shoheicode/CourseraProjects/tree/main/Algorithims/ProgrammingAssignment6)
 
-####
+#### JavaScript
+
 
 ## 🔗 Links
 <a href = "https://portfoliowebsite-36391.web.app/"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt = "linkedIn"> </a>
