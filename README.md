@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I am Jason Irie </h1>
 
-I am a current College Student (specializing in Software Development) pursuing my Bachelors in Mathematics of Computation.
+I am a current College Student at UCLA (specializing in Software Development) pursuing my Bachelors in Mathematics of Computation.
 
 I enjoy working on my own personal projects and participating in Hackathons and learning about new Technologies. Recently, I learned about Flutter and Firebase and plan on implementing that technology in future projects like C++ related projects with Firebase and Flutter Websites. I have much experience using React as well along with OpenAI API's and other machine learning models. 
 
