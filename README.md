@@ -6,6 +6,8 @@ I enjoy working on my own personal projects and participating in Hackathons and 
 
 I am formerly apart of the Google Developer Student Club at my school and partook in creating intricate projects. Along with that, I am currently doing research at UCLA with simulation technology and apart of the BruinSpace Club at UCLA. Along with that, I wrote Python Scrappers for research papers and wrote it to automatically update a website with all the papers. To learn more, please look below!
 
+## Research:
+- [Soft Robotics Simulation](https://github.com/StructuresComp/dismech-rods)
 
 ## Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
