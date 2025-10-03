@@ -8,6 +8,7 @@ I am formerly apart of the Google Developer Student Club at my school and partoo
 
 ## Research:
 - [Soft Robotics Simulation](https://github.com/StructuresComp/dismech-rods)
+- [Argi-Cruiser](https://github.com/StructuresComp/agri-cruiser)
 
 ## Best Project Examples:
 - [Bank Management Project](https://github.com/Shoheicode/BankManagement)
