@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jason Irie 👋</h1>
 
-<h3 align="center">Backend & API Developer · UCLA Mathematics of Computation · NASA JPL</h3>
+<h3 align="center">Backend & Application Developer · UCLA Mathematics of Computation · NASA JPL</h3>
 
 <p align="center">
   I build reliable backend systems, API integrations, automation tools, and scientific software.<br/>
