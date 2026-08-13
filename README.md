@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jason Irie 👋</h1>
 
-<h3 align="center"> Backend Software Engineer · APIs & Automation</h3>
+<h3 align="center">Software Developer · Full-Stack Applications, APIs & Automation</h3>
 
 <p align="center">
   I build reliable backend systems, API integrations, automation tools, and scientific software.<br/>
@@ -19,7 +19,7 @@
 ## About Me
 
 - 🎓 UCLA graduate with a **B.S. in Mathematics of Computation**
-- 🔌 Experienced in **Python, FastAPI, REST APIs, automation, and OpenAI integrations**
+- 🔌 Experienced in **Python, FastAPI, React, REST APIs, automation, and OpenAI integrations**
 - ⚙️ Built integrations across **7+ e-commerce and operations platforms**
 - ⏱️ Automated **8+ manual workflows**, turning processes that took 1–2 hours into tasks completed in minutes
 - 🛰️ Developed scientific-computing pipelines for NASA's **EZIE heliophysics mission** at JPL
@@ -27,23 +27,35 @@
 
 ## Current Experience
 
-### Application Developer · Magnakom
+### Software Developer - Backend & API Integrations · Magnakom
 
 `November 2025 - Present` · Los Angeles, CA
 
-- Build Python automation tools, FastAPI services, Streamlit applications, and internal utilities for marketplace, shipping, pricing, inventory, and reporting operations.
-- Develop and maintain REST API integrations across Walmart, ShipStation, Mercado Libre, Temu, Falabella, ChannelMax, SellerCloud, and Excel-based systems.
-- Automated more than eight repetitive business workflows, reducing processes that previously took 1–2 hours to minutes.
-- Apply OpenAI APIs and data-processing pipelines to text extraction, structured parsing, spreadsheet generation, pricing updates, and operational reporting.
+- Design and build internal full-stack applications with Python/FastAPI backends and React, TypeScript, Next.js, or Streamlit interfaces.
+- Develop and maintain integrations across 7+ commerce and operations platforms, including Walmart, Mercado Libre, Temu, Falabella, ShipStation, ChannelMax, SellerCloud, and WholeCell.
+- Automate order reconciliation, inventory synchronization, shipping labels, cancellations, repricing, returns, and multi-source reporting workflows.
+- Built more than eight business automations that reduced repetitive processes from 1–2 hours to minutes.
+- Apply OpenAI APIs, computer vision, and document-processing pipelines to extract unstructured data, classify business records, match products, and generate operational spreadsheets.
+- Improve reliability with OAuth and signed-request authentication, concurrent API processing, validation, retries, rate limiting, structured logging, and failure alerts.
 
 #### Selected Private Projects
 
 > These are internal projects, so the source code and business data are not public. The descriptions focus on my engineering contributions and omit confidential implementation details.
 
-**E-commerce Order, Inventory & Fulfillment Automation**  
-Built a Python integration suite connecting marketplace and ERP workflows. The system imports and reconciles orders, prevents duplicate creation, synchronizes inventory concurrently by SKU, handles cancellations and payment adjustments, and alerts operators when failures occur. I also created a Streamlit workflow that extracts order identifiers from packing-slip PDFs, retrieves matching shipping labels, and merges the documents into print-ready files.
+**Multi-Marketplace Operations Platform**  
+Built Python integrations connecting marketplace, ERP, shipping, and inventory systems. The tools import and reconcile orders, prevent duplicate creation, synchronize stock concurrently by SKU, process cancellations and payment updates, download shipping labels, update tracking, and generate audit-ready Excel reports across multiple sales channels.
 
-`Python` `REST APIs` `OAuth` `Streamlit` `Pandas` `PDFPlumber` `PyPDF` `Concurrency` `Slack Alerts`
+`Python` `FastAPI` `REST APIs` `OAuth` `Streamlit` `Pandas` `Excel` `Concurrency` `Slack Alerts`
+
+**AI-Assisted RMA Management Application**  
+Developed a full-stack application with a React/TypeScript frontend and FastAPI backend for importing vendor workbooks and maintaining a returns tracker. Integrated Gmail, Google Sheets, and OpenAI to analyze email threads, classify RMA stages, match records by normalized identifiers, flag uncertain cases for human review, and keep operational statuses synchronized.
+
+`React` `TypeScript` `FastAPI` `Python` `OpenAI` `Gmail API` `Google Sheets API`
+
+**AI Document & Spreadsheet Processing**  
+Created Python applications that extract invoice and packing-slip data from PDFs, use structured OpenAI outputs to identify products and prices, match results to device records, preserve spreadsheet formatting, and return downloadable workbooks. Supported phone, tablet, and Mac parsing with configurable columns and manual-review paths.
+
+`Python` `FastAPI` `OpenAI` `Pandas` `OpenPyXL` `PDFPlumber` `Streamlit`
 
 **Intelligent PDF Logo Placement Tool**  
 Developed a computer-vision pipeline that renders each PDF page, detects occupied content, finds the largest safe empty region, and inserts a proportionally scaled logo without covering text. Built an interactive interface for logo size, alignment, offsets, white-space sensitivity, and safety margins, with downloadable processed PDFs.
@@ -54,6 +66,11 @@ Developed a computer-vision pipeline that renders each PDF page, detects occupie
 Created and packaged a Windows desktop application that accepts barcode-scanner input, validates an SFIR identifier against a Google Sheets-backed dataset, and returns its matching ESN. Added live database reloads, input validation, clear operator states, and deployment documentation for nontechnical users.
 
 `Python` `Google Sheets API` `Google Auth` `PyInstaller` `Windows Desktop`
+
+**Internal Operations Portal**  
+Built a responsive Next.js dashboard that organizes internal printing, inventory, cancellation, reporting, repricing, product-processing, and RMA tools into a single categorized interface for operations teams.
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
 
 ### Software Engineer I · Hire Henry
 
